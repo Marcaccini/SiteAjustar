@@ -1,0 +1,351 @@
+
+
+.rtl {
+  direction: rtl; 
+}
+
+.ltr {
+  direction: ltr; 
+}
+
+.rtl .banner-carousel{
+  direction: ltr;
+}
+
+.rtl .main-menu{
+  float: right;
+}
+
+.rtl .main-header .menu-right-content{
+  float: left;
+}
+
+.rtl .main-menu .navigation > li{
+  float: right;
+}
+
+.rtl .main-menu .navigation > li > ul > li > a, 
+.rtl .main-menu .navigation > li > .megamenu li > a{
+  text-align: right;
+}
+
+.rtl .main-menu .navigation li.dropdown .megamenu li h4{
+  text-align: right;
+}
+
+.rtl .main-header.style-two .search-box-outer .dropdown-menu{
+  left: 0px !important;
+}
+
+.rtl .main-header .search-panel .search-btn{
+  right: inherit;
+  left: 1px;
+}
+
+.rtl .main-menu .navigation > li:first-child{
+  margin-left: 25px !important;
+  margin-right: 0px !important;
+}
+
+.rtl .main-menu .navigation > li:last-child{
+  margin-right: 25px !important;
+  margin-left: 0px !important;
+}
+
+.rtl .main-header .search-panel input[type="text"], 
+.rtl .main-header .search-panel input[type="search"], 
+.rtl .main-header .search-panel input[type="password"], 
+.rtl .main-header .search-panel select{
+  padding-right: 15px;
+  padding-left: 50px;
+}
+
+.rtl .main-menu .navigation > li > ul > li.dropdown > a:after{
+  right: inherit;
+  left: 20px;
+  content: "\f104";
+}
+
+.rtl .main-menu .navigation > li > ul > li > ul > li > a{
+  text-align: right;
+}
+
+.rtl .header-top .text{
+  float: right;
+}
+
+.rtl .header-top .info{
+  float: left;
+}
+
+.rtl .header-top .info li{
+  margin-right: 0px;
+  margin-left: 25px;
+}
+
+.rtl .main-header .logo-box{
+  float: right;
+}
+
+.rtl .main-header .header-upper .upper-info{
+  float: left;
+}
+
+.rtl .main-header .header-upper .upper-info li{
+  margin-right: 0px;
+  margin-left: 30px;
+  padding-left: 0px;
+  padding-right: 72px;
+  text-align: right;
+}
+
+.rtl .main-header .header-upper .upper-info li i{
+  left: inherit;
+  right: 0px;
+}
+
+.rtl .main-header.style-one .social-links{
+  float: left;
+}
+
+.rtl .main-header.style-one .social-links li{
+  margin-right: 0px;
+  margin-left: 7px;
+}
+
+.rtl .feature-section .feature-block-one{
+  float: right;
+}
+
+.rtl .feature-section .feature-block-one .inner-box .inner{
+  padding-left: 0px;
+  padding-right: 178px;
+  text-align: right;
+}
+
+.rtl .feature-section .feature-block-one .inner-box .icon-box{
+  left: inherit;
+  right: 60px;
+}
+
+.rtl .feature-section .feature-block-one .inner-box .inner a i{
+  margin-right: 0px;
+  margin-left: 4px;
+}
+
+.rtl .about-section{
+  direction: ltr;
+}
+
+.rtl #content_block_1 .content-box{
+  text-align: right;
+}
+
+.rtl #content_block_1 .content-box .list-item li{
+  padding-left: 0px;
+  padding-right: 40px;
+}
+
+.rtl #content_block_1 .content-box .list-item li:before{
+  left: inherit;
+  right: 0px;
+}
+
+.rtl #content_block_1 .content-box .inner-box .inner{
+  padding-left: 40px;
+  padding-right: 125px;
+}
+
+.rtl #content_block_1 .content-box .inner-box .inner .icon-box{
+  left: inherit;
+  right: 40px;
+}
+
+.rtl .four-item-carousel{
+  direction: ltr;
+}
+
+.rtl .service-section .sec-title{
+  text-align: right;
+}
+
+.rtl .service-section .owl-nav{
+  right: inherit;
+  left: 0px;
+}
+
+.rtl .service-block-one .inner-box .lower-content{
+  text-align: right;
+}
+
+.rtl #content_block_2 .content-box{
+  text-align: right;
+}
+
+.rtl #content_block_2 .content-box .list-item li{
+  padding-left: 0px;
+  padding-right: 32px;
+}
+
+.rtl #content_block_2 .content-box .list-item li:before{
+  left: inherit;
+  right: 0px;
+}
+
+.rtl #content_block_2 .content-box .counter-inner .counter-block .inner-box{
+  padding-left: 0px;
+  padding-right: 65px;
+}
+
+.rtl #content_block_2 .content-box .counter-inner .counter-block .inner-box .icon-box{
+  left: inherit;
+  right: 0px;
+}
+
+.rtl .feature-block-two .inner-box .content-inner{
+  text-align: right;
+}
+
+.rtl .three-item-carousel{
+  direction: ltr;
+}
+
+.rtl #content_block_4 .form-inner .form-group:last-child{
+  text-align: right;
+}
+
+.rtl #content_block_3 .content-box{
+  margin-right: 0px !important;
+  margin-left: 40px;
+  text-align: right;
+}
+
+.rtl #content_block_3 .single-box .inner{
+  padding-left: 0px;
+  padding-right: 90px;
+}
+
+.rtl #content_block_3 .single-box .inner .icon-box{
+  left: inherit;
+  right: 0px;
+}
+
+.rtl #content_block_3 .content-box .inner-box{
+  padding-left: 50px;
+  padding-right: 145px;
+}
+
+.rtl #content_block_3 .content-box .inner-box .icon-box{
+  left: inherit;
+  right: 60px;
+}
+
+.rtl .news-block-one .inner-box .lower-content{
+  text-align: right;
+}
+
+.rtl .news-block-one .inner-box .image-box .post-date{
+  left: inherit;
+  right: 0px;
+}
+
+.rtl .news-block-one .inner-box .lower-content .post-info li i{
+  margin-right: 0px;
+  margin-left: 4px;
+}
+
+.rtl .news-block-one .inner-box .lower-content .link a i{
+  margin-right: 0px;
+  margin-left: 4px;
+}
+
+.rtl .news-block-one .inner-box .lower-content .post-info li{
+  margin-right: 0px;
+  margin-left: 8px;
+}
+
+.rtl .cta-section .inner-box .text{
+  float: right;
+  text-align: right;
+}
+
+.rtl .cta-section .inner-box .btn-box{
+  float: left;
+}
+
+.rtl .footer-top{
+  text-align: right;
+}
+
+.rtl .footer-top .links-widget .links-list li a{
+  padding-left: 0px;
+  padding-right: 10px;
+}
+
+.rtl .footer-top .links-widget .links-list li a:before{
+  left: inherit;
+  right: 0px;
+  content: "\f0da";
+  transform: rotate(180deg);
+}
+
+.rtl .footer-top .logo-widget .info li i{
+  margin-left: 10px;
+}
+
+.rtl .footer-top .logo-widget .support-box{
+  padding-left: 30px;
+  padding-right: 90px;
+}
+
+.rtl .footer-top .logo-widget .support-box i{
+  left: inherit;
+  right: 20px;
+}
+
+.rtl .footer-botton .copyright{
+  float: right;
+}
+
+.rtl .footer-botton .social-links{
+  float: left;
+}
+
+.rtl .footer-botton .social-links li{
+  margin-right: 0px;
+  margin-left: 7px;
+}
+
+.rtl #content_block_1 .content-box .inner-box{
+  float: right;
+}
+
+.rtl .clients-carousel{
+  direction: ltr;
+}
+
+.rtl #content_block_2 .content-box .counter-inner{
+  margin-right: 0px;
+}
+
+.rtl .mobile-menu{
+  text-align: right;
+}
+
+.rtl .mobile-menu .nav-logo{
+  text-align: right;
+}
+
+.rtl .mobile-menu .navigation li > a:before{
+  left: inherit;
+  right: 0px;
+}
+
+.rtl .mobile-menu .navigation li.dropdown .dropdown-btn{
+  right: inherit;
+  left: 6px;
+}
+
+.rtl .mobile-menu .navigation li.dropdown .dropdown-btn.open{
+  transform: rotate(-90deg);
+}

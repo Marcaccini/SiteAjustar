@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "../../../Pasta de Projetos/Teste"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Resox",
+    "liveServer.settings.port": 5502
+  }
+}
